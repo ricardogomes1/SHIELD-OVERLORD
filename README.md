@@ -1,8 +1,8 @@
-<img width="1917" height="919" alt="Captura de tela 2026-06-15 133855" src="https://github.com/user-attachments/assets/faa647dc-3b56-4c60-84fa-2956a0791255" />
-<img width="1917" height="918" alt="Captura de tela 2026-06-15 133834" src="https://github.com/user-attachments/assets/2fe44383-356e-4c9f-90e6-1529d85fbc5b" />
-<img width="1919" height="918" alt="Captura de tela 2026-06-15 133822" src="https://github.com/user-attachments/assets/47a9bd1f-fd32-410e-8537-a7d3dd12c00c" />
-<img width="1919" height="910" alt="Captura de tela 2026-06-15 133810" src="https://github.com/user-attachments/assets/8728eaa1-9a54-451d-901a-6d1d1143cab4" />
-<img width="1917" height="919" alt="Captura de tela 2026-06-15 133745" src="https://github.com/user-attachments/assets/881470ad-1e62-49e3-b2d3-8565c7f5dce9" />
+
+
+
+
+
 # 🛡️ Shield Platform // Overlord Industrial SOC
 
 [![Security Core](https://img.shields.io/badge/Security-EDR%20%2F%20NDR-red?style=for-the-badge)]()
@@ -41,7 +41,12 @@ O ecossistema é dividido em quatro componentes modulares que operam em harmonia
     * 🟡 **Médio:** Alertas de ausência de Assinatura Digital no SMB.
     * 🔴 **Alto / Crítico:** RealTime Protection do Antivírus Desativado ou Perfis de Firewall Inativos.
 * **Rastreamento Ativo de Analistas:** Auditoria interna em tempo real que exibe os IPs dos analistas que estão a consultar a ferramenta diretamente na barra de título do console do PowerShell.
-
+* 
+<img width="1917" height="919" alt="Captura de tela 2026-06-15 133745" src="https://github.com/user-attachments/assets/881470ad-1e62-49e3-b2d3-8565c7f5dce9" />
+<img width="1919" height="910" alt="Captura de tela 2026-06-15 133810" src="https://github.com/user-attachments/assets/8728eaa1-9a54-451d-901a-6d1d1143cab4" />
+<img width="1919" height="918" alt="Captura de tela 2026-06-15 133822" src="https://github.com/user-attachments/assets/47a9bd1f-fd32-410e-8537-a7d3dd12c00c" />
+<img width="1917" height="918" alt="Captura de tela 2026-06-15 133834" src="https://github.com/user-attachments/assets/2fe44383-356e-4c9f-90e6-1529d85fbc5b" />
+<img width="1917" height="919" alt="Captura de tela 2026-06-15 133855" src="https://github.com/user-attachments/assets/faa647dc-3b56-4c60-84fa-2956a0791255" />
 ---
 
 ## ⚙️ Implantação e Inicialização
